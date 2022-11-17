@@ -1,0 +1,11 @@
+INSERT INTO candidate VALUES (8892132783, 'ME' , 1, 'M', 'Ajay', 80,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (7894561230, 'CS' , 4, 'M', 'Vijay', 75,'Python','BE', 'MySQL' );
+INSERT INTO candidate VALUES (9874662104, 'CE' , 2, 'F', 'Ramesh', 92,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (8520147963, 'EC' , 4, 'M', 'Suresh', 60,'PHP','BE', 'MySQL' );
+INSERT INTO candidate VALUES (7887454126, 'EE' , 1, 'M', 'Ravi', 55,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (5647983120, 'ME' , 0.5, 'M', 'Raju', 45,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (6452137890, 'CS' , 3.5, 'F', 'Santhosh', 59,'Python','BE', 'MySQL' );
+INSERT INTO candidate VALUES (7412589630, 'CS' , 4.2, 'M', 'Kiran', 72,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (9632587410, 'EE' , 0, 'M', 'Rockey', 65,'Java','BE', 'MySQL' );
+INSERT INTO candidate VALUES (6321478952, 'Ec' , 0.8, 'F', 'Sachin', 79,'Java','C++', 'MySQL' );
+INSERT INTO candidate VALUES (8464638645, 'Ec' , 0.8, 'F', 'AAAAAAAAAAAAAA', 79,'Java','C++', 'MySQL' );
